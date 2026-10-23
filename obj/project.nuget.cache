@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnLEiI+ZJbE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DogeHyperSecurity\\DogeHyperSecurity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\wpf-ui\\4.0.3\\wpf-ui.4.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\wpf-ui.abstractions\\4.0.3\\wpf-ui.abstractions.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
